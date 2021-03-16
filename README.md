@@ -9,7 +9,9 @@ An Soft & Hard Server Restart Procedure (The Soft Script is Only Running with th
 To Create an Powershell Planned Task use the following Action Parametes:
 
 Start Program: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
-Arguments: <Path\To\File.ps1> 
--> For example: (C:\Servers\Steam\patch_install_start_vahleim_soft.ps1)
-Start in: <Path\To\Folder\
--> for example: C:\Servers\Steam\
+
+Arguments: <Path\To\File.ps1>
+> For example: (C:\Servers\Steam\patch_install_start_vahleim_soft.ps1)
+
+Start in: <Path\To\Folder\>
+> for example: C:\Servers\Steam\
