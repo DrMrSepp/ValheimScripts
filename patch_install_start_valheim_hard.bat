@@ -2,6 +2,9 @@
 
 REM This Script is the actual Patch & Start procedure for the Valheim Server
 
+echo Kill running Tags
+Taskkill /IM valheim_server.exe /F
+
 echo Start Server Updates
 REM Example: <Path_to_your_steamcmd> +login anonymous +force_install_dir <Path_To_Your_Valheim_Server> +app_update 896660 +quit
 
