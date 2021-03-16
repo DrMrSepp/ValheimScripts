@@ -1,12 +1,12 @@
 # ValheimUpdateScripts
 
-This Repository is containing Scripts for Valheim Server Backups and Updates - includes:
+This Repository is containing Scripts for Valheim Server Backups and Updates - Including:
 
 An Soft & Hard Server Restart Procedure (The Soft Script is Only Running with the "normal Server-Start Batch File")
--> Use the Soft Procedure as planned task every day for an auto Update of your instance
--> Link the Soft Procedure to your Start.bat (as documented in the soft Procedure)
++ Use the Soft Procedure as planned task every day for an auto Update of your instance
++ Link the Soft Procedure to your Start.bat (as documented in the soft Procedure)
 
-To Create an Powershell Planned Task use the following Action Parametes:
+To Create an Powershell planned Task use the following Action Parametes:
 
 Start Program: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
 
