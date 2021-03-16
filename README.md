@@ -1,4 +1,4 @@
-# ValheimUpdateScripts
+# Valheim Server (Windows) Scripts
 
 This Repository is containing Scripts for Valheim Server Backups and Updates - Including:
 
