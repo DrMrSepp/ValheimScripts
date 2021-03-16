@@ -6,7 +6,7 @@
 # Folder Name for the ZIP-Backup-File (will be added with YYY MM DD HH mm at the end"
 $ZIPNAME="VALHEIMBACKUP" + (Get-Date -format yyyy-MM-dd-HH_mm) + '.zip'
 
-# Defining the Backup Folder
+# Defining the Folder (Backup Source) where your Server files are saved
 $BackupDirs="C:\Servers\Steam\Server_Files\valheim\_savedir"
 
 # Temp Backup Path (to Create an consistent backup)
